@@ -13,7 +13,7 @@ The synthetic datasets proposed in our paper are in the `dataset.zip` file.
 ### Format
 The format of each dataset is as follows (same with the format of  of SQuAD).
 The version of the question (challenging or shortcut) is denoted in the key `qtype`. 
-```json
+```
 {
   "version": "simple_matching_dev_challenging",  		// dataset version
   "data": [
