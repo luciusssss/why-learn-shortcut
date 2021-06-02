@@ -44,4 +44,4 @@ The version of the question (challenging or shortcut) is denoted in the key `qty
 
 
 ## Code
-We are organizing the code for this paper. It will be released soon.
+We are preparing the code for this paper. It will be released soon.
