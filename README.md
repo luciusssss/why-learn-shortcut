@@ -1,6 +1,8 @@
 # Why Machine Reading Comprehension Models Learn Shortcuts?
 Data and code for 'Why Machine Reading Comprehension Models Learn Shortcuts?', Findings of ACL 2021
 
+Arxiv Preprint: https://arxiv.org/abs/2106.01024
+
 ## Data
 The synthetic datasets proposed in our paper are in the `dataset.zip` file.
 ### Size
