@@ -1,5 +1,5 @@
 # Why Machine Reading Comprehension Models Learn Shortcuts?
-Data and code for 'Why Machine Reading Comprehension Models Learn Shortcuts?', Findings of ACL 2021
+Repo for 'Why Machine Reading Comprehension Models Learn Shortcuts?', Findings of ACL 2021
 
 Arxiv Preprint: https://arxiv.org/abs/2106.01024
 
@@ -13,7 +13,7 @@ The synthetic datasets proposed in our paper are in the `dataset.zip` file.
 | Simple Matching        | 7562          | 952         |
 
 ### Format
-The format of each dataset is as follows (same with the format of  of SQuAD).
+The format of each dataset is as follows (same as the format of SQuAD).
 The version of the question (challenging or shortcut) is denoted in the key `qtype`. 
 ```
 {
@@ -44,6 +44,3 @@ The version of the question (challenging or shortcut) is denoted in the key `qty
 }
 ```
 
-
-## Code
-We are preparing the code for this paper. It will be released soon.
